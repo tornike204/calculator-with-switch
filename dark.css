@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.snow{
+    width: auto;
+    text-align: center;
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: cyan;
+}
+.result{
+    width: 100px;
+    height: 40px;
+    color: black;
+    border-radius: 5px;
+    background-color: chartreuse;
+}
